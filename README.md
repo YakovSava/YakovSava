@@ -30,3 +30,12 @@ Patch 3
 *_1_* - The number of minor changes
 
 Patch № - The serial number of the commit
+
+
+## A little about me
+Python developer, mainly a backender and I write bots. I'm a freelancer, although I'm trying to find a job.  
+My nickname comes from my name and nicknames: Yakov and Savelyi (YakovSava; although Jacob is correct in English) almost all of my works are in the public domain, even those with the most destructive code
+
+## Contact with me
+[VK](https://vk.com/505671804)
+[telegram](https://t.me/dc11gh58)
