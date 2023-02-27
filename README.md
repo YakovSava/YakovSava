@@ -37,5 +37,5 @@ Python developer, mainly a backender and I write bots. I'm a freelancer, althoug
 My nickname comes from my name and nicknames: Yakov and Savelyi (YakovSava; although Jacob is correct in English) almost all of my works are in the public domain, even those with the most destructive code
 
 ## Contact with me
-[VK](https://vk.com/505671804)
+[VK](https://vk.com/id505671804)
 [telegram](https://t.me/dc11gh58)
