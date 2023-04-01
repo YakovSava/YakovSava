@@ -1,3 +1,10 @@
+<a href="https://github.com/YakovSava">
+  <image width='38%' src="https://github-readme-stats.vercel.app/api?username=YakovSava&show_icons=true&include_all_commits=false&hide_border=true&hide=contribs&theme=vue" />
+</a>
+<a href="https://github.com/YakovSava">
+  <image width='60%' src="https://cdn.jsdelivr.net/gh/YakovSava/YakovSava@github-contribution-grid-snake/github-contribution-grid-snake.svg" />
+</a>
+
 ## Types of versions
 If someone is interested in this, then here I will describe the types of versions.
 
@@ -37,5 +44,5 @@ Python developer, mainly a backender and I write bots. I'm a freelancer, althoug
 My nickname comes from my name and nicknames: Yakov and Savelyi (YakovSava; although Jacob is correct in English) almost all of my works are in the public domain, even those with the most destructive code
 
 ## Contact with me
-[VK](https://vk.com/id505671804)
+[VK](https://vk.com/id505671804)<br>
 [telegram](https://t.me/dc11gh58)
