@@ -1,8 +1,5 @@
 <a href="https://github.com/YakovSava">
-  <image width='38%' src="https://github-readme-stats.vercel.app/api?username=YakovSava&show_icons=true&include_all_commits=false&hide_border=true&hide=contribs&theme=vue" />
-</a>
-<a href="https://github.com/YakovSava">
-  <image width='60%' src="https://cdn.jsdelivr.net/gh/YakovSava/YakovSava@github-contribution-grid-snake/github-contribution-grid-snake.svg" />
+  <image align="center" src="https://github-readme-stats.vercel.app/api?username=YakovSava&show_icons=true&include_all_commits=false&hide_border=true&hide=contribs&theme=vue" />
 </a>
 
 ## Types of versions
