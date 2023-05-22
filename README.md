@@ -7,6 +7,5 @@
 
 ## Мои контакты / Contact with me
 [VK](https://vk.com/id505671804)
-<hr>
 
 [telegram](https://t.me/dc11gh58)
