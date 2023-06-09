@@ -1,5 +1,7 @@
 <a href="https://github.com/YakovSava">
-  <image margin="0 auto" src="https://github-readme-stats.vercel.app/api?username=YakovSava&show_icons=true&include_all_commits=false&hide_border=true&hide=contribs&theme=vue"/>
+  <image margin="0 auto" src="https://github-readme-stats.vercel.app/api?username=YakovSava&show_icons=true&hide_border=true&hide=stars&theme=vue&locale=ru"/>
+  <image margin="0 auto" src="https://github-readme-stats.vercel.app/api?username=YakovSava&show_icons=true&hide_border=true&hide=stars&theme=vue&rank_icon=github"/>
+  <image margin="0 auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=YakovSava&layout=donut-vertical"/>
 </a>
 
 # Привет! / Hello!
