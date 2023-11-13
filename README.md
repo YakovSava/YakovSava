@@ -5,31 +5,31 @@
 </a>
 <hr>
 
-# Кто я такой?
-Я - Савельев Яков, (правильное произношение на английском - Джейкоб; ЯковСава сокращение от имени и фамилии), я являюсь миддл-разработчиком и частным подрядчиком для некоторых компаний с которыми я работал. Я так же обладаю огромным стеком технологий которыми могу управлять, хотя зачастую я использую самописные скрипты ибо для меня в приоритете всегда стоит оптимизация моей работы.
-Помимо программирования у меня присутствуют навыки системного администрирования и разворачивания разнообразных скриптов и/или средств автоматизации на серверах как Linux, так и Windows server. Помимо этого, я зачастую стараюсь обеспечить моим приложениям какую-никакую кроссплатформенность, прмиерами этого могут служить эти репозитории:
-- [Уничтожитель данных](https://github.com/YakovSava/data_eraser)
-- [Автоматический копировальщик на USB (и не только)](https://github.com/YakovSava/auto_copy_to_usb)
-Хотя некоторые репозитории расчитаны специально под Windows. Вот примеры:
-- [Шуточный калькулятор роста](https://github.com/YakovSava/meme_calculator)
-- [Шуточные "странные ошибки"](https://github.com/YakovSava/comic_mistake)
-- [Детектор syslog](https://github.com/YakovSava/time_recorder)
-В некоторых моих репозиториях с Python, вы могли заметить что я частично использую C++. Это связано с тем что я стараюсь выдать своим программам больше кроссплатформенности. В [этом репозитории](https://github.com/YakovSava/data_eraser) так же видно что я даже скомпилировал linux код под ARM устройство.
+# Who am i?
+I am Savelyev Yakov, (correct pronunciation in English is Jacob; YakovSava is an abbreviation for his first and last name), I am a middle developer and private contractor for some companies with which I worked. I also have a huge stack of technologies that I can manage, although I often use self-written scripts because optimizing my work is always a priority for me.
+In addition to programming, I have skills in system administration and deployment of various scripts and/or automation tools on both Linux and Windows servers. In addition, I often try to provide my applications with some kind of cross-platform functionality; these repositories can serve as examples of this:
+- [Data eraser](https://github.com/YakovSava/data_eraser)
+- [Automatic copyer to USB (and not only)](https://github.com/YakovSava/auto_copy_to_usb)
+Although some repositories are designed specifically for Windows. Here are examples:
+- [Comic height calculator](https://github.com/YakovSava/meme_calculator)
+- [Comic “strange errors”](https://github.com/YakovSava/comic_mistake)
+- [Syslog detector](https://github.com/YakovSava/time_recorder)
+In some of my Python repositories, you may have noticed that I partially use C++. This is due to the fact that I am trying to make my programs more cross-platform. In [this repository](https://github.com/YakovSava/data_eraser) you can also see that I even compiled the linux code for an ARM device.
 
-# С чего я такой наглый, считаю себя миддлом?
-Долгое время на самом деле я считал себя джуном, а потом до меня долшло осознание что на самом деле опыта у меня очень много, так как я работал в нескольких фирмах. Вот так же предоставляю те знания, которым я распологаю (последнее обновление списка: 12.11.2023):
-- Язык программирования Python (опыт 1 год 10 месяцев)
-- Язык программирования C++ (опыт 5 месяцев)
-- Язык программирования (или мучения) FASM (опыт 4 месяца)
-- Язык программирования JavaScript (в том числе - NodeJS; опыт 7 месяцев)
-- Git
+# Why am I so arrogant, I consider myself a middle?
+For a long time, in fact, I considered myself a junior, and then it dawned on me that in fact I had a lot of experience, since I worked in several companies. This is how I provide the knowledge that I have (last list update: 11/12/2023):
+- Python programming language (experience 1 year 10 months)
+- C++ programming language (5 months experience)
+- Programming language (or torture) FASM (4 months experience)
+- JavaScript programming language (including NodeJS; 7 months experience)
+-Git
 - Linux
 - Nginx
 - Apache2
 - isc-dhcp-server
-- Фреймворк Aiohttp
-- Фреймворк FastAPI
-- Фреймворк Boost
+- Aiohttp framework
+- FastAPI framework
+- Boost framework
 
 ## Contact with me
 [VK](https://vk.com/id505671804)<br>
