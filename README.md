@@ -16,7 +16,7 @@ Although some repositories are designed specifically for Windows. Here are examp
 - [Comic “strange errors”](https://github.com/YakovSava/comic_mistake)
 - [Syslog detector](https://github.com/YakovSava/time_recorder)
 
-В некоторых моих репозиториях с Python, вы могли заметить что я частично использую C++. Это связано с тем что я стараюсь выдать своим программам больше оптимизации и в некоторых репозиториях кода C++ намного больше, чем обычного кода Python. К примеру [в этом репозитории]() или [в этом](). В [этом репозитории](https://github.com/YakovSava/data_eraser) так же видно что я даже скомпилировал linux код под ARM устройство.
+В некоторых моих репозиториях с Python, вы могли заметить что я частично использую C++. Это связано с тем что я стараюсь выдать своим программам больше оптимизации и в некоторых репозиториях кода C++ намного больше, чем обычного кода Python. К примеру [в этом репозитории](https://github.com/YakovSava/plugins_for_pysite_with_cpp). В [этом репозитории](https://github.com/YakovSava/data_eraser) так же видно что я даже скомпилировал linux код под ARM устройство.
 
 # Why am I so arrogant, I consider myself a middle?
 For a long time, in fact, I considered myself a junior, and then it dawned on me that in fact I had a lot of experience, since I worked in several companies. This is how I provide the knowledge that I have (last list update: 11/12/2023):
