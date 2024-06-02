@@ -23,10 +23,10 @@ I strive to optimize my projects, which is why I often use my own scripts and no
 ##  Experience and Skills:
 
 **Programming Languages:**
-* Python (1 year 10 months of experience)
-* C++ (5 months of experience)
-* FASM (4 months of experience)
-* JavaScript (including NodeJS; 7 months of experience)
+* Python (2 years 4 months of experience)
+* C++ (11 months of experience)
+* FASM (10 months of experience)
+* JavaScript (including NodeJS; 1 year 1 month of experience)
 
 **Technologies:**
 
