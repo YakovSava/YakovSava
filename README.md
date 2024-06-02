@@ -5,34 +5,45 @@
 </a>
 <hr>
 
-# Who am i?
-I am Savelyev Yakov, (correct pronunciation in English is Jacob; YakovSava is an abbreviation for his first and last name), I am a middle developer and private contractor for some companies with which I worked. I also have a huge stack of technologies that I can manage, although I often use self-written scripts because optimizing my work is always a priority for me.
-In addition to programming, I have skills in system administration and deployment of various scripts and/or automation tools on both Linux and Windows servers. In addition, I often try to provide my applications with some kind of cross-platform functionality; these repositories can serve as examples of this:
-- [Data eraser](https://github.com/YakovSava/data_eraser)
-- [Automatic copyer to USB (and not only)](https://github.com/YakovSava/auto_copy_to_usb)
+# About Me
 
-Although some repositories are designed specifically for Windows. Here are examples:
-- [Comic height calculator](https://github.com/YakovSava/meme_calculator)
-- [Comic “strange errors”](https://github.com/YakovSava/comic_mistake)
-- [Syslog detector](https://github.com/YakovSava/time_recorder)
+Hi there! My name is Yakov Savelyev (YakovSava is a shorthand for my first and last name). I'm a Middle Python developer experienced in working with different companies, both as a freelancer and as a full-time employee.
 
-In some of my Python repositories, you may have noticed that I partially use C++. This is due to the fact that I try to give my programs more optimization and in some repositories there is much more C++ code than regular Python code. For example [in this repository](https://github.com/YakovSava/plugins_for_pysite_with_cpp). In [this repository](https://github.com/YakovSava/data_eraser) you can also see that I even compiled the linux code for an ARM device. I also have not very successful examples of my repositories, for example [here](https://github.com/YakovSava/xml_speller_parser), they simply tried to get my work for free, so I refused to work with the customer and left the ordered project.
+I strive to optimize my projects, which is why I often use my own scripts and non-standard solutions. In addition to programming, I have skills in system administration and application deployment on both Linux and Windows servers.
 
-# Why am I so arrogant, I consider myself a middle?
-For a long time, in fact, I considered myself a junior, and then it dawned on me that in fact I had a lot of experience, since I worked in several companies. This is how I provide the knowledge that I have (last list update: 11/12/2023):
-- Python programming language (experience 1 year 10 months)
-- C++ programming language (5 months experience)
-- Programming language (or torture) FASM (4 months experience)
-- JavaScript programming language (including NodeJS; 7 months experience)
-- Git
-- Linux
-- Nginx
-- Apache2
-- isc-dhcp-server
-- Aiohttp framework
-- FastAPI framework
-- Boost framework
+## My Interests:
 
-## Contact with me
-[VK](https://vk.com/id505671804)<br>
-[telegram](https://t.me/dc11gh58)
+* **Cross-platform development.** You can find examples of my cross-platform projects here:
+    * [Data eraser](https://github.com/YakovSava/data_eraser)
+    * [Automatic copyer to USB (and not only)](https://github.com/YakovSava/auto_copy_to_usb)
+* **Python development with C++ integration** for performance optimization.  Examples:
+    * [Plugins for Pysite with Cpp](https://github.com/YakovSava/plugins_for_pysite_with_cpp)
+    * [Data eraser (Linux ARM build)](https://github.com/YakovSava/data_eraser)
+
+##  Experience and Skills:
+
+**Programming Languages:**
+* Python (1 year 10 months of experience)
+* C++ (5 months of experience)
+* FASM (4 months of experience)
+* JavaScript (including NodeJS; 7 months of experience)
+
+**Technologies:**
+
+* **Version Control:** Git 
+* **Operating Systems:** Linux
+* **Web Servers:** Nginx, Apache2
+* **Networking:** isc-dhcp-server, iptables
+* **Python Frameworks:** Aiohttp, FastAPI, Flask, Celery
+* **Databases:** MySQL, PostgreSQL, SQLite3
+* **Other:** Boost, CMake,  (Add any other relevant technologies you are familiar with)
+
+##  Contact Me:
+
+* [VK](https://vk.com/id505671804)
+* [Telegram](https://t.me/dc11gh58) 
+
+## My resume
+
+* [hh.ru](https://tchaikovsky.hh.ru/resume/43759e93ff0c1661ca0039ed1f7a3135476270)
+* [rabota.ru](https://perm.rabota.ru/resume/36275267)
