@@ -1,22 +1,12 @@
 <div align="center">
   <!-- Основная статистика -->
   <a href="https://github.com/YakovSava">
-    <img src="https://grs.yakovsava.dev/api?username=YakovSava&show_icons=true&hide_border=true&hide=stars&theme=vue&rank_icon=github" alt="YakovSava's GitHub Stats"/>
+    <img src="https://grs.yakovsava.dev/?username=YakovSava&show_icons=true&hide_border=true&hide=stars&theme=vue&rank_icon=github" alt="YakovSava's GitHub Stats"/>
   </a>
   <br>
   <!-- Топ языков -->
   <a href="https://github.com/YakovSava">
-    <img src="https://grs.yakovsava.dev/api/top-langs?username=YakovSava&layout=compact&hide_border=true&theme=vue" alt="Top Languages"/>
-  </a>
-  <br>
-  <!-- Коммиты за неделю -->
-  <a href="https://github.com/YakovSava">
-    <img src="https://grs.yakovsava.dev/api/wakatime?username=YakovSava&layout=compact&theme=vue&hide_border=true" alt="WakaTime Stats"/>
-  </a>
-  <br>
-  <!-- Статистика продуктивности -->
-  <a href="https://github.com/YakovSava">
-    <img src="https://grs.yakovsava.dev/api/pin/?username=YakovSava&theme=vue&hide_border=true" alt="Pinned Repository"/>
+    <img src="https://grs.yakovsava.dev/top-langs?username=YakovSava&layout=compact&hide_border=true&theme=vue" alt="Top Languages"/>
   </a>
   <br>
   <!-- Приветствие -->
