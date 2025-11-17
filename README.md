@@ -1,114 +1,86 @@
 <div align="center">
-  <!-- Основная статистика -->
+  
   <a href="https://github.com/YakovSava">
     <img src="https://grs.yakovsava.dev/?username=YakovSava&show_icons=true&hide_border=true&theme=vue" alt="YakovSava's GitHub Stats"/>
   </a>
   <br>
-  <!-- Топ языков -->
   <a href="https://github.com/YakovSava">
     <img src="https://grs.yakovsava.dev/top-langs?username=YakovSava&layout=compact&hide_border=true&theme=vue" alt="Top Languages"/>
   </a>
-  <br>
-  <!-- Приветствие -->
-  <p>Explore my projects, track my contributions, and feel free to connect!</p>
+
+  <h1 align="center">Hi there, I'm Yakov Savelyev! 👋</h1>
+
+  **CTO @ MYI Technologies | Team Lead | System Programmer**
+
+  <a href="https://t.me/yakov_cto">
+    <img src="https://img.shields.io/badge/Telegram-Connect-blue?style=for-the-badge&logo=telegram" alt="Telegram">
+  </a>
+  <a href="mailto:yakov@yakovsava.dev">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://yakovsava.dev/resume/">
+    <img src="https://img.shields.io/badge/Resume-View_CV-success?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume">
+  </a>
 </div>
 
-# About Me
+---
 
-Hi there! My name is Yakov Savelyev (YakovSava is a shorthand for my first and last name). I'm a **Senior Developer Engineer and Team Lead** with a diverse technical skill set ranging from low-level system programming and integrations to server administration and machine learning. I have a strong focus on creating effective and high-quality solutions, constantly exploring new technologies, and approaching tasks with flexibility, responsibility, and efficiency—both independently and as part of a team.
+### 🚀 About Me
 
-## My Interests:
+I am a **Senior Developer** and **CTO** with a passion for deep tech. My journey started early—I began my commercial career at 15, and now I bridge the gap between high-level architecture and low-level system programming.
 
-* **Business Process Automation.** Developing scenarios to integrate various services and automate workflows.
-* **Backend Development.** Utilizing frameworks like Flask, FastAPI, and Django to build robust backend systems.
-* **Machine Learning & AI.** Working with libraries such as OpenCV, TensorFlow, and OpenAI API to create intelligent solutions.
-* **System Programming & OS Kernels.** Manipulating system calls and working with core Windows DLLs for low-level programming.
+I don't just write code; I build ecosystems. From optimizing **OS kernels** and writing **Assembler** to leading development teams and architecting microservices for international clients.
 
-## Experience and Skills:
-
-**Programming Languages:**
-* Python (primary)
-* C/C++
-* JavaScript
-* TypeScript
-* Rust
-* FASM (Flat Assembler, including ARM)
-* Mojo
-* NASM
-* GAS
-* Vue.js
-* SuiteScript
-
-**Technologies:**
-
-* **System Programming & OS Kernels:**
-  * Manipulation of system calls (syscall, 0x80)
-  * Working with core Windows DLLs (kernel32, user32)
-
-* **Backend Development:**
-  * Frameworks & Tools: Flask, FastAPI, Aiohttp.web, Celery, Redis, RabbitMQ, Apache Kafka, Django
-  * Databases: MySQL, PostgreSQL, SQLite3, SQLAlchemy, MariaDB, MongoDB
-  * APIs: VK API, Google Cloud Console, MoySklad, VK Pay, Yoomoney, Google Workspace, HomeDepot, EventBrite, SOAP, XML
-  * Data Formats: SQL, JSON, BSON, YAML, TOML
-
-* **DevOps:**
-  * Linux server administration (OS setup, routing, iptables, DHCP servers)
-  * Web servers: Nginx, Apache2, OpenSSL
-  * VPN and proxy services: L2TP, PPPOE, Shadowsocks, VLESS (reality)
-  * Monitoring: Zabbix
-  * SSH configuration (certificate-based login), FTP setup (pure-ftpd)
-
-* **Network Services & DNS:**
-  * Configuring DNS records with registrars (Cloudflare, NameCheap)
-  * Setting up Reverse DNS
-  * Mail servers: Dovecot, Postfix; webmail: Roundcube
-  * Configuring Bind9 DNS server
-  * Setting up DKIM, SPF, and DMARC records for mail servers
-
-* **Machine Learning & AI:**
-  * Libraries: OpenCV, TensorFlow, OpenAI API, Google Gemini API
-  * Experience with NLP, LLaMA, Stable Diffusion (ComfyUI, ForgeUI), BERT
-  * Creating and integrating voice assistants (Vonage, vapi.ai, Twilio)
-  * Developing AI-based assistants for technical support and client management
-
-* **Big Data & Large-Scale Projects:**
-  * Migrating extensive client data to new CRM systems
-  * Architecting large microservice applications
-  * Code optimization and team leadership using Agile, Scrum, and Kanban methodologies
-
-* **Other Skills:**
-  * OpenAI Assistance API setup
-  * Google VM Instance, Google Apps Script
-  * PC assembly, troubleshooting, and basic electronics
-  * Reverse engineering DLL, C#, COFF, ELF, and EXE files
-  * Barcode scanner integrations
-  * Image data labeling (Roboflow)
-  * Windows and Linux configuration
-  * Git, unit testing, and automated testing
-  * Deploying WordPress and PHP-based applications
-  * OAuth2 and Basic Auth integrations
-  * Website parsing and automation solutions
-
-## Contact Me:
-
-* [Telegram](https://t.me/dc11gh58)
-* [GitHub](https://github.com/YakovSava)
-* Email: [yakov@yakovsava.dev](mailto:yakov@yakovsava.dev)
-
-## My Resume:
-
-* [Resume](https://yakovsava.dev/resume/)
+* 🔭 **Current Roles:** CTO at **MYI Technologies** & Team Lead at **RetailBox Inc.**
+* 🎓 **Teaching:** I teach algorithms and programming at Tchaikovsky Industrial College, mentoring the next generation of devs.
+* ⚙️ **Low-Level Love:** I enjoy reverse engineering, working with **syscalls**, **FASM/NASM**, and **Rust**.
+* ⚡ **Impact:** I once reduced a client's email automation process from **several days to a few seconds**, increasing efficiency by ~500%.
 
 ---
 
-### Notable Projects:
+### 🛠️ Technical Arsenal
 
-* **Automatic USB Copying:** Automated system for copying data to USB drives, SD cards, and CDs, featuring error handling, progress tracking, and batch processing capabilities. [GitHub Repository](https://github.com/YakovSava/auto_copy_to_usb)
-* **Data Destroyer:** High-performance C++ application for secure data destruction on storage devices, implementing multiple data sanitization standards and verification processes. [GitHub Repository](https://github.com/YakovSava/data_eraser)
-* **Console CAD:** A console-based CAD application for creating 2D shapes according to specified commands. [GitHub Repository](https://github.com/YakovSava/console_cad)
-* **Bot for Face Recognition:** A face recognition bot designed for 1:1 format images for documents and other purposes. [GitHub Repository](https://github.com/YakovSava/face_recognition_bot)
-* **RetailBox Inc. Website:** Developed a business card website for RetailBox Inc. with various features. [GitHub Repository](https://github.com/YakovSava/retailbox_website)
+**Languages (High & Low Level)**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-555?style=flat&logo=gnu-bash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+
+**Backend & Frameworks**
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+
+**DevOps & Infrastructure**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
+
+**AI & Tools**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=5C3EE8)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
 
 ---
 
-Thank you for visiting my profile! Feel free to connect with me or explore my repositories for more information about my work.
+### 🏆 Notable Projects
+
+* **Automatic USB Copying**: Automated system for mass data replication with error handling.
+* **Data Destroyer**: High-performance C++ app for secure military-grade data sanitization.
+* **Face Recognition Bot**: AI-powered bot for 1:1 document photo verification.
+* **Console CAD**: A pure C++ console-based CAD application for 2D shapes.
+
+---
+
+### 📫 Connect with me
+
+I am open to discussing high-load architectures, OS development, or business automation.
+
+* **Telegram:** [@yakov_cto](https://t.me/yakov_cto)
+* **Email:** [yakov@yakovsava.dev](mailto:yakov@yakovsava.dev)
+* **Full Resume:** [yakovsava.dev/resume](https://yakovsava.dev/resume/)
