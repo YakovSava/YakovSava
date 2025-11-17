@@ -31,7 +31,7 @@ I am a **Senior Developer** and **CTO** with a passion for deep tech. My journey
 
 I don't just write code; I build ecosystems. From optimizing **OS kernels** and writing **Assembler** to leading development teams and architecting microservices for international clients.
 
-* 🔭 **Current Roles:** CTO at **MYI Technologies** & Team Lead at **RetailBox Inc.**
+* 🔭 **Current Roles:** CTO at **MYI Technologies DOO**
 * 🎓 **Teaching:** I teach algorithms and programming at Tchaikovsky Industrial College, mentoring the next generation of devs.
 * ⚙️ **Low-Level Love:** I enjoy reverse engineering, working with **syscalls**, **FASM/NASM**, and **Rust**.
 * ⚡ **Impact:** I once reduced a client's email automation process from **several days to a few seconds**, increasing efficiency by ~500%.
