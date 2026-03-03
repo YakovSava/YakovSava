@@ -1,11 +1,11 @@
 <div align="center">
   
   <a href="https://github.com/YakovSava">
-    <img src="https://grs.yakovsava.dev/?username=YakovSava&show_icons=true&hide_border=true&theme=vue" alt="YakovSava's GitHub Stats"/>
+    <img src="https://grs.yakovsava.dev/api/?username=YakovSava&show_icons=true&hide_border=true&theme=vue" alt="YakovSava's GitHub Stats"/>
   </a>
   <br>
   <a href="https://github.com/YakovSava">
-    <img src="https://grs.yakovsava.dev/top-langs?username=YakovSava&layout=compact&hide_border=true&theme=vue" alt="Top Languages"/>
+    <img src="https://grs.yakovsava.dev/api/top-langs?username=YakovSava&layout=compact&hide_border=true&theme=vue" alt="Top Languages"/>
   </a>
 
   <h1 align="center">Hi there, I'm Yakov Savelyev! 👋</h1>
